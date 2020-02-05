@@ -14,4 +14,5 @@ urlpatterns = (
     # 注册界面
     path('register/', views.register, name='register'),
 
+
 )
